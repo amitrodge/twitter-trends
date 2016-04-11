@@ -1,0 +1,35 @@
+{
+"locations":[
+                {
+                "country":"India",
+                "trendingCities":
+                        [
+                          {
+                           "name":"India",
+                           "woeid":"23424848"
+                          }
+                        ]
+                },
+                {
+                "country":"Korea",
+                "trendingCities":
+                        [
+                          {
+                           "name":"Korea",
+                           "woeid":"23424868"
+                          }
+                        ]
+                },
+                {
+                "country":"United States",
+                "trendingCities":
+                        [
+                          {
+                           "name":"United States",
+                           "woeid":"23424977"
+                          }
+                        ]
+                }
+            ]
+}
+
